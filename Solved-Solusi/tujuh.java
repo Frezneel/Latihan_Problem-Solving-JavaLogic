@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class tujuh {
     public static void main(String[] args) {
+        System.out.println("======= Galih M Ichsan Training Moment ============");
         Scanner scanner = new Scanner(System.in);
         //Tinggal menambahkan item yang ingin di cleaner
         String[] cleaner = {",","\'","\"","@","/","&","(",")"};
